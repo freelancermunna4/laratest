@@ -8,7 +8,7 @@
 </head>
 <body style="margin:50px;text-align:center">
 <h1 style="text-align:center;">{{$id}}</h1>
-<br>
+    <br>
     <a href="{{'/'}}">Home</a>
     <a href="{{'about'}}">About</a>
     <a href="{{'contact'}}">Contact</a>
